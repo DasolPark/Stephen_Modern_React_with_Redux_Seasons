@@ -18,10 +18,22 @@ class App extends React.Component {
         this.setState({ errorMessage: err.message });
       }
     );
+    console.log('1. constructor');
+  }
+
+  componentDidMount() {
+    console.log('3. componentDidMount');
+  }
+  componentDidUpdate() {
+    console.log('4. componentDidUpdate');
+  }
+  componentWillUnmount() {
+    console.log('5. componentWillUnmount');
   }
 
   // React says we have to define render!!
   render() {
+    console.log('2. render');
     if (this.state.errorMessage && !this.state.lat) {
       return <div>Error: {this.state.errorMessage}</div>;
     }
