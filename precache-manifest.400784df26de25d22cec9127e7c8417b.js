@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb57004f625e46b0c55f36498a2763d3",
+    "revision": "cd5833f00dbed320bd0a72ef867e6876",
     "url": "/Modern_React_with_Redux_Seasons-Stephen-/index.html"
   },
   {
-    "revision": "547dd8bdda2d9328fbca",
+    "revision": "3e6809b190d0222c6029",
     "url": "/Modern_React_with_Redux_Seasons-Stephen-/static/css/main.1f69e0e7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/2.b3bd6d33.chunk.js"
   },
   {
-    "revision": "547dd8bdda2d9328fbca",
-    "url": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/main.28381d08.chunk.js"
+    "revision": "3e6809b190d0222c6029",
+    "url": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/main.d7b3993b.chunk.js"
   },
   {
     "revision": "6cf89719723a55f8b248",
