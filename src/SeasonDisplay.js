@@ -1,22 +1,22 @@
-import React from "react";
-import "./SeasonDisplay.css";
+import React from 'react';
+import './SeasonDisplay.css';
 
 const seasonConfig = {
   summer: {
     text: "Let's hit the beach!",
-    iconName: "sun"
+    iconName: 'sun'
   },
   winter: {
-    text: "Burr, It is cold!",
-    iconName: "snowflake"
+    text: 'Burr, It is cold!',
+    iconName: 'snowflake'
   }
 };
 
 const getSeason = (lat, month) => {
   if (month > 2 && month < 9) {
-    return lat > 0 ? "summer" : "winter";
+    return lat > 0 ? 'summer' : 'winter';
   } else {
-    return lat > 0 ? "winter" : "summer";
+    return lat > 0 ? 'winter' : 'summer';
   }
 };
 
