@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Modern_React_with_Redux_Seasons-Stephen-/static/css/main.1f69e0e7.chunk.css",
-    "main.js": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/main.d7b3993b.chunk.js",
-    "main.js.map": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/main.d7b3993b.chunk.js.map",
-    "runtime~main.js": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/runtime~main.5f06f5cc.js",
-    "runtime~main.js.map": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/runtime~main.5f06f5cc.js.map",
-    "static/js/2.b3bd6d33.chunk.js": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/2.b3bd6d33.chunk.js",
-    "static/js/2.b3bd6d33.chunk.js.map": "/Modern_React_with_Redux_Seasons-Stephen-/static/js/2.b3bd6d33.chunk.js.map",
-    "index.html": "/Modern_React_with_Redux_Seasons-Stephen-/index.html",
-    "precache-manifest.400784df26de25d22cec9127e7c8417b.js": "/Modern_React_with_Redux_Seasons-Stephen-/precache-manifest.400784df26de25d22cec9127e7c8417b.js",
-    "service-worker.js": "/Modern_React_with_Redux_Seasons-Stephen-/service-worker.js",
-    "static/css/main.1f69e0e7.chunk.css.map": "/Modern_React_with_Redux_Seasons-Stephen-/static/css/main.1f69e0e7.chunk.css.map"
+    "main.css": "/Stephen_Modern_React_with_Redux_Seasons/static/css/main.1f69e0e7.chunk.css",
+    "main.js": "/Stephen_Modern_React_with_Redux_Seasons/static/js/main.cc0b4c7f.chunk.js",
+    "main.js.map": "/Stephen_Modern_React_with_Redux_Seasons/static/js/main.cc0b4c7f.chunk.js.map",
+    "runtime~main.js": "/Stephen_Modern_React_with_Redux_Seasons/static/js/runtime~main.0702ed11.js",
+    "runtime~main.js.map": "/Stephen_Modern_React_with_Redux_Seasons/static/js/runtime~main.0702ed11.js.map",
+    "static/js/2.b3bd6d33.chunk.js": "/Stephen_Modern_React_with_Redux_Seasons/static/js/2.b3bd6d33.chunk.js",
+    "static/js/2.b3bd6d33.chunk.js.map": "/Stephen_Modern_React_with_Redux_Seasons/static/js/2.b3bd6d33.chunk.js.map",
+    "index.html": "/Stephen_Modern_React_with_Redux_Seasons/index.html",
+    "precache-manifest.befd7b5535739d6e4d4fd53b33b7cf0f.js": "/Stephen_Modern_React_with_Redux_Seasons/precache-manifest.befd7b5535739d6e4d4fd53b33b7cf0f.js",
+    "service-worker.js": "/Stephen_Modern_React_with_Redux_Seasons/service-worker.js",
+    "static/css/main.1f69e0e7.chunk.css.map": "/Stephen_Modern_React_with_Redux_Seasons/static/css/main.1f69e0e7.chunk.css.map"
   }
 }
